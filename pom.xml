@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://52.66.252.56:8081/repository/developer-release/</url>
+	      <name>web-Releases Nexus Repository</name>
+	      <url>http://204.236.209.238:8081/repository/web-snapshot/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://52.66.252.56:8081/repository/developer-snapshot/</url>
+	      <name>web-Snapshot Nexus Repository </name>
+	      <url>http://204.236.209.238:8081/repository/web-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
